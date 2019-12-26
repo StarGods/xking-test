@@ -1,4 +1,4 @@
-module github.com/Tnze/CoolQ-Golang-Plugin
+module github.com/xingye1997/xking-CoolQ-test
 
 go 1.13
 
