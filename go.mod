@@ -1,4 +1,4 @@
-module github.com/xingye1997/xking-CoolQ-test
+module github.com/xingye1997/xking-test
 
 go 1.13
 
